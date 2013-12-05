@@ -18,3 +18,6 @@ TARGET_RECOVERY_FSTAB := device/samsung/janice/rootdir/fstab.samsungjanice
 
 # Hardware tunables (device parts replacement)
 BOARD_HARDWARE_CLASS := device/samsung/janice/cmhw
+
+# TWRP fstab
+PRODUCT_COPY_FILES += device/samsung/janice/rootdir/twrp.fstab:recovery/root/etc/twrp.fstab
