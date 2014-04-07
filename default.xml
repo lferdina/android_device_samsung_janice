@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="diego-ch/android_kernel_samsung_u8500" path="kernel/samsung/u8500" remote="github" revision="jb" />
+  <project name="diego-ch/android_device_samsung_janice" path="device/samsung/janice" remote="github" revision="jb" />
+  <project name="diego-ch/proprietary_vendor_samsung" path="vendor/samsung/janice" remote="github" revision="jb" />
+
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="jellybean" />
+</manifest>
